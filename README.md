@@ -7,4 +7,4 @@ as simple as that.
 you can even use cron to automatically update it at a fixed interval
 
 ## sources
-google dynamic dns api and dynamic DNS setup: https://support.google.com/domains/answer/6147083?authuser=0&hl=en
+google dynamic dns api and dynamic DNS setup: https://support.google.com/domains/answer/6147083
